@@ -89,4 +89,7 @@
 
 - GCP
 
+## Task Management
 
+- JIRA
+- Slack
