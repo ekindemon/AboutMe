@@ -18,7 +18,7 @@
 - UI/UX
 - SEO、GA
 
-[Show detail](/skill)
+[Show detail](/skills.md)
 
 ## 經歷
 
@@ -30,7 +30,7 @@
 | 資訊業務   | 首航資訊網路行銷公司     | 7M    |
 | MIS 工程師 | 創微文化                 | 1Y10M |
 
-[Show detail](/career)
+[Show detail](/career.md)
 
 ## 作品
 
