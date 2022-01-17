@@ -36,9 +36,9 @@ Collaborating with back-end developers to achieve requirements from SA, SD.
 
 Front-end web development, communicated with PM, designer, and other team members to complete the work on time. 
 
-- [Event Page For GT News (Jquery)](http://www.gt-news.com/index.html)
-- [Web Management System For GT News (Jquery)](http://gtnews.gt-program.com/)
+- [Event Page For GT News (Jquery)(Invalid)](http://www.gt-news.com/index.html)
+- [Web Management System For GT News (Jquery)(Invalid)](http://gtnews.gt-program.com/)
 - Maintenance Front-end Web (Ember)
-- [SiGang lottery web and mobile version(已失效)(Vue)](http://universallottery.gttest12.com/index)
+- [SiGang lottery web and mobile version(Invalid)(Vue)](http://universallottery.gttest12.com/index)
   - Suggested To Develop with Vue instead of Jquery, Which Speed Up the Development
 - [Business Website of FULI (Nuxt)](http://fuligaming.com/cn/)

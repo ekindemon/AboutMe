@@ -4,7 +4,6 @@
 - 學歷 : 國立勤益科技大學 - 資管系
 - 居住地 : Taichung, Taipei
 - 信箱 : ekinmomo@gmail.com
-- 電話 : 0911923129
 
 ## 技能
 

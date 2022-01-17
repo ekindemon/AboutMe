@@ -35,14 +35,14 @@
 
 ### Public
 
-- [Event Page For GT News(已失效)](http://www.gt-news.com/index.html)
-- [Web Management System For GT News(已失效)](http://gtnews.gt-program.com/)
-- [SiGang lottery(已失效)](http://universallottery.gttest12.com/index)
+- [Event Page For GT News(Invalid)](http://www.gt-news.com/index.html)
+- [Web Management System For GT News(Invalid)](http://gtnews.gt-program.com/)
+- [SiGang lottery(Invalid)](http://universallottery.gttest12.com/index)
 - [Business Website of FULI](http://fuligaming.com/cn/)
 - [Development and Maintenance of TPIsoftware](https://www.tpisoftware.com/tpu/index)
 - Chatbot APP
 - [Business Website Maintenance of TPIsoftware](https://www.tpisoftware.com/en/)
-- [Insurance APPs Development in Multiple Languages(網址為類似產品)](https://www.moxa.com.tw/Product/network_management_software.htm)
+- [Insurance APPs Development in Multiple Languages(the URL is similar products)](https://www.moxa.com.tw/Product/network_management_software.htm)
 
 ### Private
 
