@@ -19,7 +19,7 @@
 
 [Show detail](/skills_EN.md)
 
-## 經歷
+## WORK EXPERIENCE
 
 | Job Title           | Company        | Job Tenure  |
 | ------------------- | ------------------------ | ----- |
