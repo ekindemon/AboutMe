@@ -5,7 +5,7 @@
 - Current Residence : Taichung, Taipei
 - Email Address: ekinmomo@gmail.com
 
-## SKILLS
+## Skills
 
 - HTML、CSS、JavaScript
 - Bootstrap、jQuery、Angular、Vue、Material
@@ -19,7 +19,7 @@
 
 [Show detail](/skills_EN.md)
 
-## WORK EXPERIENCE
+## Work Experience
 
 | Job Title           | Company        | Job Tenure  |
 | ------------------- | ------------------------ | ----- |
@@ -31,7 +31,7 @@
 
 [Show detail](/career_EN.md)
 
-## MY COLLECTION
+## My Collection
 
 ### Public
 
@@ -42,7 +42,7 @@
 - [Development and Maintenance of TPIsoftware](https://www.tpisoftware.com/tpu/index)
 - Chatbot APP
 - [Business Website Maintenance of TPIsoftware](https://www.tpisoftware.com/en/)
-- [Insurance APPs Development in Multiple Languages(the URL is similar products)](https://www.moxa.com.tw/Product/network_management_software.htm)
+- [Insurance APP Development in Multiple Languages(the URL is similar products)](https://www.moxa.com.tw/Product/network_management_software.htm)
 
 ### Private
 
@@ -52,6 +52,6 @@
 - 響應式產品介紹 - http://www.nevergiveup.byethost24.com/bootstrap2.html
 - 響應式部落格 - http://www.nevergiveup.byethost24.com/bootstrap3.html -->
 
-## SELF INTRODUCTION
+## Self Introduction
 
 Greetings, I like to learn new technologies and stretch myself with something different. I enjoy collaborating with team members to achieve the goal.

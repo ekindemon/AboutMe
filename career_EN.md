@@ -28,7 +28,7 @@ Collaborating with back-end developers to achieve requirements from SA, SD.
   - Developed [chat bot](https://www.tpisoftware.com/tpu/articleDetails/1813) by Internal Software
   - Refactored Code After Development To Decrease Time Cost Between Shifts
 - [Business Website Maintenance of TPIsoftware (Nuxt)](https://www.tpisoftware.com/en/)
-- Insurance APPs Development in Multiple Languages (Ionic 、Angular)
+- Insurance APP Development in Multiple Languages (Ionic 、Angular)
 
 ## Front End Developer of UNIQ Micronet Technology Co. Ltd.
 
