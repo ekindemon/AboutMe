@@ -23,11 +23,11 @@
 
 | Job Title           | Company        | Job Tenure  |
 | ------------------- | ------------------------ | ----- |
-| Front End Developer | Envotions Technology Services | 9M    |
-| Front End Developer | TPIsoftware     | 1Y5M  |
+| Front End Developer | Moxa | 10M    |
+| Front End Developer | TPIsoftware     | 1Y6M  |
 | Front End Developer | UNIQ Micronet Technology Co. Ltd.     | 1Y3M  |
-| Information Technology Sales   | Atteipo Internet Information Co., Ltd.     | 7M    |
-| MIS Engineer | 創微文化                | 1Y10M |
+<!-- | Information Technology Sales   | Atteipo Internet Information Co., Ltd.     | 7M    |
+| MIS Engineer | 創微文化                | 1Y10M | -->
 
 [Show detail](/career_EN.md)
 

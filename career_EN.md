@@ -2,23 +2,22 @@
 
 Job Tenure: 4+ years
 
-## Front End Developer of Envotions Technology Services
+## Front End Developer of Moxa(dispatch)
 
 2021/3 - 2021/12
 
-Dispatched to Moxa404, debugging existing projects and developing new features.
+Envotions Technology Services dispatched to Moxa, debugging existing projects and developing new features.
 
 - Wi-Fi Interface Set-up and Web Page Development (Angular)
 - [CNC Interface Set-up and Web Page Development (Angular)(Pixijs)](https://www.moxa.com.tw/Product/network_management_software.htm)
-  - [Debug](/img/bug.png)
-  - Code Refactoring
+  - 98% [Debug] in project(/img/bug.png)
+  - Form Code Refactoring, improve readability20%
   - UI Improvements
-  - Integrate three versions project to one project
-  - CI, Decreasing 66% Build Time
+  - Integrate three versions project to one project, Decreasing 66% Build Time
 
 ## Front End Developer of TPIsoftware
 
-2019/8 - 2020/12
+2019/8 - 2021/1
 
 Collaborating with back-end developers to achieve requirements from SA, SD.
 
@@ -34,7 +33,7 @@ Collaborating with back-end developers to achieve requirements from SA, SD.
 
 2018/5 - 2019/7
 
-Front-end web development, communicated with PM, designer, and other team members to complete the work on time. 
+Communicated with PM, Designer, and solve problems encountered by team members
 
 - [Event Page For GT News (Jquery)(Invalid)](http://www.gt-news.com/index.html)
 - [Web Management System For GT News (Jquery)(Invalid)](http://gtnews.gt-program.com/)
